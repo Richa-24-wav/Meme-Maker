@@ -132,7 +132,7 @@ export const memeData = [
         alt : "You look relaxed 😉"
     },
     {
-        emotionTags: ["scared","sad"], //d
+        emotionTags: ["scared","sad","insomniac"], //d
         isGif: true,
         image:"sad3.gif",
         alt : "You look sad 😵‍💫"
@@ -162,7 +162,7 @@ export const memeData = [
         alt : "You look happy 😉"
     },
     {
-        emotionTags: ["sad","moody"],   //d
+        emotionTags: ["sad","moody","angry"],   //d
         isGif: true,
         image:"sad2.gif",
         alt : "You look sad 😵‍💫"
